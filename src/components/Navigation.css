@@ -1,0 +1,12 @@
+.nav {
+    height: 20%;
+    padding: auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}    
+
+link {
+    padding: 10px;
+}
